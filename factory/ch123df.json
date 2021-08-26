@@ -1,0 +1,9 @@
+{
+	"name": "ch123df",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3d5ac464-4ec8-4e75-9fde-4fa47ba08d07",
+		"tenantId": "0fd78a89-8a75-47e9-959a-f183656b3cb0"
+	}
+}
